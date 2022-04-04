@@ -83,7 +83,7 @@ Grade:
         description:
           type: string
           description: Beskrivning av gymnasiearbete.
-        titleEngish:
+        titleEnglish:
           type: string
           description: Eventuell engelsk titel på gymnasiearbete.
         descriptionEnglish:
